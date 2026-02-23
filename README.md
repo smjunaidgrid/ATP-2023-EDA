@@ -14,6 +14,8 @@ This project performs structured exploratory data analysis (EDA) on the 2023 ATP
 - Higher-ranked players won approximately 63% of matches, indicating moderate predictive strength of rankings.
 - Hard courts accounted for over 57% of matches in 2023, dominating the ATP calendar.
 - Grass matches had the highest average duration, influenced by Grand Slam formats.
+<img width="568" height="433" alt="image" src="https://github.com/user-attachments/assets/7779cbd9-152c-4104-bf0b-3d2b2880072e" />
+
 
 ## Dataset Source
 Jeff Sackmann ATP Tennis Dataset (GitHub)
